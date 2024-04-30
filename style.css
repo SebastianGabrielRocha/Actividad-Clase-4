@@ -1,0 +1,37 @@
+.subrayar{
+    text-decoration: underline;
+}
+
+.celeste
+{
+    color:blue;
+}
+
+.resaltarverde{
+    background-color: greenyellow;
+}
+
+.parrafo{
+    line-height: 1;
+}
+
+.texto-naranja{
+    color:orange;
+}
+.subrayar-negrita{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.resaltar-amarillo{
+    background-color: yellow;
+}
+.text-red{
+    color:red;
+}
+.resaltar-aqua{
+    background-color: aqua;
+}
+
+.tachado{
+    text-decoration: line-through;
+}
